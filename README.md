@@ -37,8 +37,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Acknowledgement
 
-Based on the YouTube video by Javascript Master 
+Based on the YouTube video by Javascript Mastery
 https://www.youtube.com/watch?v=Ahwoks_dawU&t=357s
+
 Github project link: https://github.com/adrianhajdin/ai_saas_app
+
 Author: Adrian Hajdin - JS Mastery
 
